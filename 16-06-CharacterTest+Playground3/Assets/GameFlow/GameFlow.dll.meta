@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 20990ec6b45e544b0b5f28b1e0c1c96b
+labels:
+- Programming
+- Scripting
+- Visual
+- Visualscripting
+- Visual-Scripting
+- Gameplay
+- Prototype
+- Prototyping
+- Design
+- Scratch
+- Easy
+- Basic
+- Extension
+- Multiplatform
+- Ui
+- Localization
+- Editor
+- Gui
+- Language
+- Pool
+- Windows
+- MacOSX
+PluginImporter:
+  serializedVersion: 1
+  iconMap:
+    GameFlow.ActivationController: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinActiveGameObject: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinCurrentFPS: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinDay: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinDefaultLanguage: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinDeltaTime: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinDeviceName: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinHour: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinInputAxis: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinInputAxisX: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinInputAxisY: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinLanguage: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMinute: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMonth: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMouseDelta: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMouseDeltaX: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMouseDeltaY: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMousePosition: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMousePositionX: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMousePositionY: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMouseScrollDelta: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMouseScrollDeltaX: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinMouseScrollDeltaY: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinNativeResolution: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinScreenSize: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinSecond: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.BuiltinYear: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.CollisionController: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Description: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Force: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Forces: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Key: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Keys: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.List: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Localization: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Localizations: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Macro: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.MouseController: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Note: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnActivate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnApplicationFocus: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnApplicationInit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnApplicationPause: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnApplicationQuit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnAwake: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnClick: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnCollisionEnter: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnCollisionExit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnCollisionStay: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnDeactivate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnDestroy: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnDrawGizmos: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnEndEdit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnFixedUpdate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnGameOver: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnGamePause: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnGameResume: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnGameStart: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnLanguageSet: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnLateUpdate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnMouseDown: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnMouseDrag: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnMouseEnter: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnMouseExit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnMouseOver: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnMouseUp: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnParameterChange: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnPointerDown: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnPointerEnter: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnPointerExit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnPointerUp: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnProgramFinish: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnStart: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnTimerExpire: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnTriggerEnter: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnTriggerExit: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnTriggerStay: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.OnUpdate: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.OnValueChange: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Parameter: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Parameters: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Path: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Pool: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Program: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Timer: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.TriggerController: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+    GameFlow.Variable: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65, type: 3}
+    GameFlow.Variables: {fileID: 2800000, guid: b47d00e2bfefb483e8d74573defe0a65,
+      type: 3}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 0.8.7b
+  assetBundleName: 
+  assetBundleVariant: 

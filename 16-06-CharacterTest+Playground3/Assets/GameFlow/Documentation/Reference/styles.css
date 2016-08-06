@@ -1,0 +1,38 @@
+body {
+margin: 0px;
+background-color: #ffffff;
+color: #333333;
+font: 16px/1.7 normal normal;
+font-family: "Helvetica Neue", Helvetica, arial, freesans, clean, sans-serif;
+}
+
+.header {
+border-bottom: 1px solid #f2f2f2;
+padding-left: 25px;
+padding-top: 25px;
+padding-right: 25px;
+padding-bottom: 25px;
+}
+
+.content {
+padding-top: 0px;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 30px;
+float: left;
+}
+
+.index {
+padding: 20px;
+padding-top: 30px;
+padding-right: 60px;
+width: 200px;
+float: left;
+}
+
+ul.index-list {
+list-style: none;
+list-style-type: none;
+}
+
+
