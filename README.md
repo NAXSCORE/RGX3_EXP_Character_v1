@@ -4,13 +4,13 @@
 
 # 檔案資料夾命名規則
 
-_Scens
-  ScA_xx_xxxxxx_01
-  Test_xxxxx_xxxx_01
-_Materials
-_Textures
-_Models
-_Shaders
+- _Scens
+  - ScA_xx_xxxxxx_01
+  - Test_xxxxx_xxxx_01
+- _Materials
+- _Textures
+- _Models
+- _Shaders
 
 
 # 此Project內容
