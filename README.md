@@ -14,13 +14,17 @@
 
 
 # 此Project內容
+以場景檔案: _Scenes/CharacterDesign_03 為主
+
 ##腳色
 四種Particle 組成的腳色身體
-檔案: _Scenes/the_One_03
 
 ##漣漪測試
+EnviromentEffecs > Ripple
 
 ##煙霧
+2. 可被PointLight照亮的Particle Shader: Lit Alpha Blend Soft Particle等等
+應用於物件EnviromentEffecs > DustStorm
 
-##
+2. 很不錯的Volumetric Fog套件：FogVolume
 
